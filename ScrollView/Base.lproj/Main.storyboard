@@ -52,6 +52,9 @@
                             <constraint firstItem="47e-Nt-6wW" firstAttribute="centerX" secondItem="ydu-XZ-cYt" secondAttribute="centerX" id="rVm-NJ-eFt"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="coolScrollView" destination="47e-Nt-6wW" id="3gd-gA-jc7"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="8Td-IW-wv0" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
